@@ -1,0 +1,15 @@
+[package]
+name = "timer-rs"
+version = "0.9.0"
+edition = "2021"
+authors = ["dchansen06"]
+description = "A short and simple timer written in rust, with the ability to modify the program by a set offset if you so choose"
+readme = "README.md"
+repository = "https://github.com/dchansen06/timer-rs/"
+license = "Apache-2.0"
+publish = false
+categories = ["command-line-utilities", "date-and-time"]
+keywords = ["timer", "shell"]
+
+[lints.rust]
+unsafe_code = "forbid"
