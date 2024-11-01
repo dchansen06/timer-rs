@@ -13,3 +13,6 @@ Adjust the program's `OFFSET` should you want to always have your timer come bac
 
 ## Disclaimer
 This program makes no attempt to be perfect, and aims to return just after the time specified. Do not use where (extreme) accuracy is required
+
+## Installation
+Install the program with ```cargo install --git https://github.com/dchansen06/timer-rs/``` and then run the binary (generally in `~/.cargo/bin`) with your desired flags
