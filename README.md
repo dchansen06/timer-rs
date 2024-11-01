@@ -11,4 +11,4 @@ Adjust the program's `OFFSET` should you want to always have your timer come bac
 ```$ short-task && time 15 s && another-task```
 
 ## Disclaimer
-This program makes no attempt to be perfect, and aims to return just after the time specified.
+This program makes no attempt to be perfect, and aims to return just after the time specified. Do not use where (extreme) accuracy is required
