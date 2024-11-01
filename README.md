@@ -7,6 +7,7 @@ Adjust the program's `OFFSET` should you want to always have your timer come bac
 
 ## Example usage
 ```$ timer 5 ms```
+
 ```$ short-task && time 15 s && another-task```
 
 ## Disclaimer
